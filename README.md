@@ -1,3 +1,5 @@
+#This is a fork of the original https://github.com/Magestore/BannerSlider-Magento to provide modman-File and composer.json
+
 # Magento Banner Slider - Capture visitors' eyes at first sight!
 <p><span style="color: #000000;"><strong>Magento Banner Slider </strong> is the easiest and most effective way to show a series of your images to grab customers' attention at the very first moment they're on your site.</span></p>
 <ul class="short-features">

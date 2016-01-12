@@ -1,0 +1,10 @@
+{
+    "name": "magestore/bannerslider",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "Magento Banner Slider - Capture visitors' eyes at first sight!",
+    "homepage": "https://github.com/Magestore/BannerSlider-Magento",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
